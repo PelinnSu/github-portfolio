@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pelin Su 
 #### Game Programmer 
-I am an Electric and Electronic Engineer living in Turkey. After my graduation, I decided to dive in game programming. Now, I work as Game Programmer at Gamegine Company.
+I am an Electric and Electronical Engineer living in Turkey. After my graduation, I decided to dive in game programming. Now, I work as Game Programmer at Gamegine Company.
 
 Skills: C# / Unity 
 
