@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me supiskin@gmail.com
 
-[SPace](https://github.com/PelinnSu/SpaceShooter)asdasdas
+[SpaceShooter](https://github.com/PelinnSu/SpaceShooter)
